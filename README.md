@@ -14,7 +14,7 @@ The goal of this repository is to:
 🛠️ Technologies Used
 
 - SQL
-- MySQL / PostgreSQL Compatible Queries
+- MS SQL SERVER Compatible Queries
 - LeetCode Online Judge
 
 ---
@@ -57,48 +57,6 @@ Advanced SQL
 - Common Table Expressions (CTEs)
 - Ranking Functions
 - Date Functions
-
----
-
-📂 Repository Structure
-
-leetcode-sql-50/
-│
-├── Basic_Select/
-├── Basic_Joins/
-├── Aggregation_Functions/
-├── Advanced_Select_and_Joins/
-├── Subqueries/
-├── Advanced_SQL/
-│
-└── README.md
-
-Each solution contains:
-
-- Problem Number
-- Problem Title
-- SQL Query
-- Explanation (if applicable)
-
-Example:
-
-197. Rising Temperature.sql
-1174. Immediate Food Delivery II.sql
-550. Game Play Analysis IV.sql
-
----
-
-🎯 Progress Tracker
-
-Topic| Status
-Basic Select| ⬜
-Basic Joins| ⬜
-Aggregations| ⬜
-Subqueries| ⬜
-Advanced SQL| ⬜
-SQL 50 Completed| ⬜
-
-«Update the checkboxes as you complete each section.»
 
 ---
 
